@@ -14,22 +14,18 @@
 
 
 <div>
-	<h2>Linguagens &#128512</h2>
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)&nbsp;
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)
-
-</div>
-
-
-<div>
 	<h2>Estilos</h2>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <div>
 	<h2>Github Status</h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesskaBasilio&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">
+  <a href="https://github.com/JesskaBasilio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesskaBasilio_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesskaBasilio=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
 
 </div>
