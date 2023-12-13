@@ -1,6 +1,6 @@
 <div>
 	<h1>Oiê! Meu nome é Jessica de Lima Basilio, pode me chamar de Jess. 👋&#128512 </h1>
-	<p>Estou em transição de carreira e gostando de aprender a programar!</p>
+	<p>Estou em transição de carreira e gostando de aprender a programar!s2</p>
 
 </div>
 	
